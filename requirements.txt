@@ -1,0 +1,4 @@
+ploty
+streamlit 
+pandas
+json
